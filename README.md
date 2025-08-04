@@ -9,6 +9,5 @@ Sou desenvolvedor Front-End apaixonado por criar interfaces modernas e intuitiva
 - 💅 TailwindCSS / Sass
 - 🌐 Node.js para back-end simples
 
-📫 Entre em contato: [LinkedIn](https://linkedin.com/in/seuuser) | [Email](mailto:seu@email.com)
+📫 Entre em contato: [LinkedIn](https://linkedin.com/in/lamerquearaujo) | [Email](lamerquea12@gmail.com)
 
-> Estou reestruturando meu GitHub com novos projetos. Em breve mais!
